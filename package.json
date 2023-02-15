@@ -1,0 +1,27 @@
+{
+  "name": "symmetrical-chainsaw",
+  "version": "1.0.0",
+  "description": "## Your Task",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crystal-coding-time/symmetrical-chainsaw.git"
+  },
+  "author": "Eli Ter Keurst & edX",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crystal-coding-time/symmetrical-chainsaw/issues"
+  },
+  "homepage": "https://github.com/crystal-coding-time/symmetrical-chainsaw#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mysql2": "^2.1.0",
+    "sequelize": "^5.21.7"
+  }
+
+}
